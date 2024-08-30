@@ -1,5 +1,4 @@
-## Hi there 👋
-I am currently information system undergraduate at ucsc and i am fashionate about web developing.
+Hi, I am @ImeshaDewmini
 
 <!--
 **ImeshaDewmini/ImeshaDewmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
