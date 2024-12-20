@@ -1,5 +1,7 @@
 Hi, I am @ImeshaDewmini
 
+Infromation Systems Undergraduate @ UCSC 
+
 <!--
 **ImeshaDewmini/ImeshaDewmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
